@@ -1,11 +1,11 @@
 {
     "site": {
         "lang": "en",
-        "title": "Marketing Agency template",
+        "title": "Forgewinner Support System",
         "titleDelim": " | ",
-        "description": "Free responsive one page marketing agency template",
-        "keywords": "html template, theme, freebie, opensource",
-        "url": "https://github.com/website-templates/marketing-agency_one-page-template"
+        "description": "Support sistem untuk membantu member Forgewinner mempercepat perkembangan Jaringannya",
+        "keywords": "Forgewinner, Glujelly, Member Site, Bisnis MLM 2017",
+        "url": "https://github.com/deasyah/forgewinner-the-best-bussines"
     },
     "modules": {
         "googleFonts": "https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,300,400,600,700,800%7COpen+Sans+Condensed:300&subset=latin,cyrillic",
